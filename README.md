@@ -15,4 +15,7 @@ Using the Excel table provided, this project seeks to modify and analyze the dat
 * Microsoft Excel
 
 ### Data Source:
-* [StarterBook.xlsx](https://github.com/kellyblumhagen/excel-kickstart-my-chart/blob/master/StarterBook.xlsx)
+* [Starter](StarterBook.xlsx)
+
+### Final Workbook:
+* [Completed Project](kickstart-my-chart.xlsx)
